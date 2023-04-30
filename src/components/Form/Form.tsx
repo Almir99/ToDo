@@ -1,4 +1,4 @@
-import {Container, Inputs, Button} from "./Form.style";
+import {Container, Inputs, Button} from "./Form.styled";
 import {Dispatch, SetStateAction, FC, SyntheticEvent, useRef, useEffect} from "react";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faXmark} from "@fortawesome/free-solid-svg-icons";

@@ -1,5 +1,5 @@
 import {Text} from "../UI";
-import {Container, Span} from "./HomePage.style";
+import {Container, Span} from "./HomePage.styled";
 import List from "../List/List";
 import {FC, useState} from "react";
 import {Form} from "../Form/Form";

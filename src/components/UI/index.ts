@@ -1,2 +1,1 @@
-export {Text} from "./Text.style"
-export {Input} from "./Inputs.style"
+export {Text} from "./Text.styled"

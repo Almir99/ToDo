@@ -1,5 +1,5 @@
 import {FC, useState} from "react";
-import {Ul, Li, TextContainer, DateContainer, ButtonContainer, Button} from "./List.style";
+import {Ul, Li, TextContainer, DateContainer, ButtonContainer, Button} from "./List.styled";
 import {Text} from "../UI";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faXmark, faPenToSquare} from '@fortawesome/free-solid-svg-icons'
